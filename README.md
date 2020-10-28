@@ -668,6 +668,7 @@ Use your browser(CTL-F) to search by country code.
 - [imgtoon](https://imgtoon.com)
 - [Storiesig](https://storiesig.com/)
 - [loadingram](https://loadingram.com)
+- [instastory.download](https://instastory.download)
 
 #### Telegram
 - [tchannels](https://tchannels.me)
